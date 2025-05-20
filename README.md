@@ -1,6 +1,3 @@
-# Running the Code
-
-This README explains how to run the code in this project.
 
 ## Prerequisites
 
