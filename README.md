@@ -43,7 +43,7 @@ This will set up the environment with all the necessary packages and dependencie
    - `-o`: Output file name (e.g., clustered_results.csv)
    - `-n`: Number of kmeans++ trials (e.g., 10)
    - `-m`: Number of kneedle algorithm trials (e.g., 10)
-   - `-k`: Maximum number of clusters to test (e.g., 15)
+   - `-k`: Maximum number of clusters to test (e.g., 25)
 
 ## Step 2: Plot the Results
 
